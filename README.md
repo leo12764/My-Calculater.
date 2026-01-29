@@ -1,1 +1,1 @@
-This is a calculator I created through the app academy 2025
+This is a calculator I created through the FNB app academy 2025
